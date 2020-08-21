@@ -1,2 +1,4 @@
 # kodi-app
-kodirian app for android device
+
+webview with react native for kodirian app
+android only
